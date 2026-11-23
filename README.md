@@ -1,6 +1,7 @@
 # day7-git-practice
 
-About: version B
 
-About: version A
+## GitHub Actions Practice
+
+This repository is used to practice Git, GitHub Actions, and CI/CD.
 
